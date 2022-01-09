@@ -1,8 +1,0 @@
-name: pymc-binder
-channels:
-- conda-forge
-dependencies:
-- python-graphviz
-- pip
-- pip:
-  - -r pip-compiled.txt

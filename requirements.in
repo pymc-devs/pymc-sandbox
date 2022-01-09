@@ -2,3 +2,5 @@ nbgitpuller
 
 # Data analytics
 pymc3
+graphviz
+seaborn
