@@ -4,3 +4,4 @@ nbgitpuller
 pymc3
 graphviz
 seaborn
+numpy==1.21.5
