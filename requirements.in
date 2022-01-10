@@ -1,7 +1,8 @@
 nbgitpuller
 
 # Data analytics
-pymc3
+pymc>=4.0.dev0
 graphviz
 seaborn
 numpy==1.21.5
+scikit-learn
