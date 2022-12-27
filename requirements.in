@@ -1,7 +1,6 @@
 nbgitpuller
 
 # Data analytics
-pymc3
+pymc<5
 graphviz
 seaborn
-numpy==1.21.5
