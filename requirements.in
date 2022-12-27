@@ -1,6 +1,6 @@
 nbgitpuller
 
 # Data analytics
-pymc<5
+pymc>=5
 graphviz
 seaborn
