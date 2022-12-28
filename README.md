@@ -9,5 +9,9 @@ to ensure notebooks can always be executed on binder and
 accelerate loading the binder kernel for the notebooks.
 
 ### Contributors
-To update the `requirements.txt` use `pip-compile requirements.in` which will
-generate the new `requirements.txt`. You'll need `pip-tools` installed
+To update the `requirements.txt` use
+
+```
+pip-compile requirements.in --resolver=backtracking -U
+```
+which will generate the new `requirements.txt`. You'll need `pip-tools` installed
